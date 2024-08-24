@@ -1,0 +1,20 @@
+[
+    {
+        "subject": "Math",
+        "groupName": "Calculus Study Group",
+        "time": "Mon, Wed, Fri - 2:00 PM",
+        "location": "Room 101"
+    },
+    {
+        "subject": "Science",
+        "groupName": "Physics Enthusiasts",
+        "time": "Tue, Thu - 3:00 PM",
+        "location": "Room 202"
+    },
+    {
+        "subject": "Engineering",
+        "groupName": "Circuit Analysis Crew",
+        "time": "Wed, Fri - 4:00 PM",
+        "location": "Room 303"
+    }
+]
